@@ -1,4 +1,8 @@
 appId: com.example.ElectronAutoUpdate
 publish:
   provider: github
+  host: github.com
+  owner: santhoshthegreat
+  repo: autoupdate
+  channel: latest
   token: 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
